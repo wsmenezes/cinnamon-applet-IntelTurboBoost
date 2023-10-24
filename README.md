@@ -6,9 +6,7 @@
 
 ## Table of contents
 
-<!-- TOC -->
-* [cinnamon-applet-IntelTurboBoost](#cinnamon-applet-intelturboboost)
-  * [Table of contents](#table-of-contents)
+<!-- TOC -->  
   * [Description](#description)
   * [Disclaimer](#disclaimer)
   * [Processors Tested](#processors-tested)
